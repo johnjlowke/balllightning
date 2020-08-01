@@ -1,0 +1,7 @@
+volts ifread    relphi       delt   nr    nz    iscreen  jscreen  mm  iion fact   
+-15000.0  1    0.999    1.00e-9   98    198       0       0     10000    1    1.0
+30*0.05  20*0.5 20*1.0 20*5.0 8*40.0    
+28*0.05 150*0.3 20*5.0   
+true
+  28 98    98 
+
