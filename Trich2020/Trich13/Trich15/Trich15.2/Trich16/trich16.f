@@ -470,7 +470,7 @@ c     end internal iteration
  572  format(1p6e12.4)
  620  format(1i3,6e12.3)
  796  format(200e11.3)
- 797  format(200f9.3)
+ 797  format(200f10.3)
  850  format(' iteration no. ',i6,'   resphi =',1pe9.2,2i3,
      r    ' relphi =',e9.2,2i3/)
  851  format(1x,'iteration no.',i6,'  time =',e12.4,
